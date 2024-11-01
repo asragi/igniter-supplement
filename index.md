@@ -1,9 +1,3 @@
----
-layout: default
-title: トップページ
----
+# 『IGNITER』ルール補足
 
-# トップページです
-
-* hoge
-* huga
+## 【発動】に関する補足
